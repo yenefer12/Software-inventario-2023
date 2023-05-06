@@ -1,4 +1,4 @@
 <template>
-    <DigitalBuscador></DigitalBuscador>
-    <DigitalTabla></DigitalTabla>
+<digitalbuscador/>
+<digitaltabla/>
 </template>
