@@ -53,7 +53,6 @@ export default defineNuxtConfig({
         
         'nuxt-icon',
         '@pinia/nuxt',
-        '@element-plus/nuxt',
         
     ],
   
